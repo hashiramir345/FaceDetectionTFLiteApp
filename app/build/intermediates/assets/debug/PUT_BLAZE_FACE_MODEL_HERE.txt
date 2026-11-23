@@ -1,0 +1,1 @@
+Download 'blaze_face_short_range.tflite' and place it inside this exact 'assets' folder before running the app in Android Studio.
